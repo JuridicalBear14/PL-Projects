@@ -1,0 +1,29 @@
+Intra-sequence delay: 3
+Sequence 1: 07:32
+- 1800 16
+- 558 630
+- 877 1066
+Sequence 2:
+-
+Sequence 3:
+-
+Sequence 4:
+-
+Sequence 5:
+-
+
+
+
+FORMATTING:
+
+Intra-sequence delay is the delay (in seconds) between each task in a sequence.
+
+
+Intra-sequence delay EXAMPLE: 5
+
+Sequence FORMAT: TIME (in military, with a 0 before single digits)
+- X-coordinate Y-coordinate (in pixels)
+
+Sequence EXAMPLE: 03:20
+- 120
+- 430
